@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-size: arial;
+}
+
+img.cloud {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+
+}
+
+ul {
+    font-size: 30px;
+}
+
+div.info {
+    margin-top: 40px;
+    border: 3px solid black;
+    padding-bottom: 20px;
+}

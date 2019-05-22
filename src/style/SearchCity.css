@@ -1,0 +1,22 @@
+form {
+    text-align: center;
+    margin-top: 5vh;
+}
+
+form .smallInput {
+    height: 3vh;
+    width: 15vw;
+    padding: 3px 3px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+form .button {
+    height: 4vh;
+    margin-left: 5px;
+    padding: 5px 5px;
+    background-color: black;
+    color: white;
+    border: none;
+}
