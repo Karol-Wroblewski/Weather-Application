@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Weather-Application/static/css/main.2bd30e8c.chunk.css",
+    "main.js": "/Weather-Application/static/js/main.d7fa3d69.chunk.js",
+    "main.js.map": "/Weather-Application/static/js/main.d7fa3d69.chunk.js.map",
+    "runtime~main.js": "/Weather-Application/static/js/runtime~main.d68c09e2.js",
+    "runtime~main.js.map": "/Weather-Application/static/js/runtime~main.d68c09e2.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/Weather-Application/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/Weather-Application/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/Weather-Application/index.html",
+    "precache-manifest.1e2a39ea2d90133b56d9b501ef253826.js": "/Weather-Application/precache-manifest.1e2a39ea2d90133b56d9b501ef253826.js",
+    "service-worker.js": "/Weather-Application/service-worker.js",
+    "static/css/main.2bd30e8c.chunk.css.map": "/Weather-Application/static/css/main.2bd30e8c.chunk.css.map",
+    "static/media/App.css": "/Weather-Application/static/media/sky.1aacd0d3.jpg"
+  }
+}
